@@ -38,7 +38,7 @@ S G Balekundri Institute of Technology, Belagavi
 | Category | Skills |
 |---|---|
 | **EDA Tools** | Cadence Innovus, Cadence Genus |
-| **Languages/Scripting** | Verilog, TCL |
+| **Languages/Scripting** | TCL, Verilog |
 | **Operating System** | Linux |
 | **PD Concepts** | Digital Electronics, CMOS, Synthesis, Floorplanning, Powerplanning, Placement, CTS, Routing, STA, Timing Closure, DRC, LVS |
 | **Debug Commands** | dbGet, dbSet |
